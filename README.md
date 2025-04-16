@@ -1,5 +1,5 @@
 Oiiii! eu sou o Gustavo Pedro
-<!--- 🌱 Estudando React-->
+- 🌱 Estudando JavaScript
 - 📫 Contate-me no email: gustavopalmeidas@gmail.com
 
 <div>
