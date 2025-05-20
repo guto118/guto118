@@ -1,6 +1,6 @@
 Oiiii! eu sou o Gustavo Pedro
 - 🌱 Estudando JavaScript
-- 📫 Contate-me no email: gustavopalmeidas@gmail.com
+- 📫 Contate-me no email: gu.pedro1212@gmail.com
 
 <div>
   <a href="https://github.com/guto118">
